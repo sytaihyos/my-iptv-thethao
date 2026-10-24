@@ -25,7 +25,7 @@ jobs:
         pip install requests
 
     - name: Run filter script
-      run: python main.py  # Đổi main.py thành tên file python của bạn nếu khác
+      run: python update_iptv.py  # Đổi main.py thành tên file python của bạn nếu khác
 
     - name: Commit and push updated playlist
       run: |
