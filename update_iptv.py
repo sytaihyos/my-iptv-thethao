@@ -3,7 +3,8 @@ import re
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor
 
-SOURCE_URL = "https://thcoban.github.io/thtt/tttt.m3u"
+INPUT_FILE = "input.m3u"  # Tên file m3u nguồn có sẵn trong thư mục
+OUTPUT_FILE = "playlist.m3u"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
 def check_link_alive(channel):
@@ -15,7 +16,6 @@ def check_link_alive(channel):
     }
     
     try:
-        # Gửi request HEAD/GET nhanh timeout 4 giây để kiểm tra luồng
         response = requests.get(url, headers=headers, stream=True, timeout=4, verify=False)
         if response.status_code == 200:
             return channel
@@ -24,20 +24,15 @@ def check_link_alive(channel):
     return None
 
 def parse_and_filter_m3u():
-    print(f"⏳ Đang tải dữ liệu từ nguồn: {SOURCE_URL}...")
+    print(f"⏳ Đang đọc dữ liệu từ file local: {INPUT_FILE}...")
     try:
-        res = requests.get(SOURCE_URL, timeout=10)
-        res.encoding = 'utf-8'
-        if res.status_code != 200:
-            print("❌ Không thể tải được file nguồn.")
-            return []
+        with open(INPUT_FILE, "r", encoding="utf-8", errors="ignore") as f:
+            lines = f.readlines()
     except Exception as e:
-        print(f"❌ Lỗi kết nối nguồn: {e}")
+        print(f"❌ Không thể đọc file nguồn: {e}")
         return []
 
-    lines = res.text.splitlines()
     raw_channels = []
-    
     i = 0
     while i < len(lines):
         line = lines[i].strip()
@@ -47,7 +42,6 @@ def parse_and_filter_m3u():
             referer = "https://google.com"
             stream_url = ""
             
-            # Đọc các thuộc tính bổ sung nếu có (#EXTVLCOPT)
             j = i + 1
             while j < len(lines):
                 next_line = lines[j].strip()
@@ -70,9 +64,8 @@ def parse_and_filter_m3u():
             i = j
         i += 1
 
-    print(f"📊 Tìm thấy {len(raw_channels)} kênh từ nguồn. Bắt đầu kiểm tra kênh sống...")
+    print(f"📊 Tìm thấy {len(raw_channels)} kênh từ file. Bắt đầu kiểm tra kênh sống...")
 
-    # Sử dụng đa luồng (20 threads) để kiểm tra nhanh danh sách kênh
     alive_channels = []
     with ThreadPoolExecutor(max_workers=20) as executor:
         results = executor.map(check_link_alive, raw_channels)
@@ -99,7 +92,7 @@ def main():
         m3u_lines.append(f"#EXTVLCOPT:http-referrer={ch['referer']}\n")
         m3u_lines.append(f"{ch['url']}\n")
 
-    with open("playlist.m3u", "w", encoding="utf-8") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.writelines(m3u_lines)
 
 if __name__ == "__main__":
