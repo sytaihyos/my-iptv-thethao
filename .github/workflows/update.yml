@@ -2,9 +2,13 @@ name: Auto Filter IPTV Playlist
 
 on:
   schedule:
-    # Chạy lúc 00:00 giờ Việt Nam (tương đương 17:00 UTC)
+    # Chạy lúc 00:00 giờ Việt Nam (17:00 UTC)
     - cron: '0 17 * * *'
   workflow_dispatch:
+
+# Cấp quyền Ghi trực tiếp trong workflow
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,10 +16,12 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4  # Cập nhật v4 mới nhất
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Set up Python
-      uses: actions/setup-python@v5  # Cập nhật v5 mới nhất
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
 
@@ -25,7 +31,6 @@ jobs:
         pip install requests
 
     - name: Run filter script
-      # Lưu ý: Thay main.py bên dưới thành tên file .py chính xác của bạn
       run: python update_iptv.py
 
     - name: Commit and push updated playlist
