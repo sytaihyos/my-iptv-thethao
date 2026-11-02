@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 08:46:51 02/11/2026
+#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 10:43:20 02/11/2026
 http://cdn.vtvall.vn/vtv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736244183/1/267/150/0.jpg" group-title="FEATURED",FREE Action Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -57,10 +57,6 @@ https://c58daada.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg24822-amg24822c1-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg24822-amg24822c1-amgplt0022/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDgzNzIxNDk4Mn0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646848058/1/267/150/0.jpg" group-title="NEWS + OPINION",USA Today
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzMzNzg3NzE0M30
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1717219887/1/267/150/0.jpg" group-title="NEWS + OPINION",Breaking News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -269,10 +265,6 @@ https://amg00312-amg00312c33-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg00312-amg00312c34-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c34-amgplt0022/playlist.m3u8?tv_ad_id=%7bTV_AD_ID%7d&iu=%7bIU%7d&schain=%7bSCHAIN%7d&app_bundle=%7bAPP_BUNDLE%7d&did=%7bADID%7d&lmt=%7bLMT%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&url=%7bDOMAIN%7d&channel_name=%7bCHANNEL_NAME%7d&gpp_sid=%7bGPP_SID%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&is_lat=%7bIS_LAT%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&w=%7bWIDTH%7d&ad_pos=%7bAD_POS%7d&coppa=0&device_make=%7bDEVICE_MAKE%7d&dnt=%7bDNT%7d&gpp=%7bGPP%7d&prodq=%7bPRODQ%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&ic=%7bIC%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&idtype=%7bIDTYPE%7d&network_name=%7bNETWORK_NAME%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&ifa_type=%7bIFATYPE%7d&us_privacy=%7bUSPRIVACY%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQ1Mn0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1664636421/1/267/150/0.jpg" group-title="LOCAL CHANNELS",Action News 5 Memphis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg00312-amg00312c58-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00312-amg00312c58-amgplt0022/playlist.m3u8?is_lat=%7bIS_LAT%7d&ic=%7bIC%7d&app_bundle=%7bAPP_BUNDLE%7d&gpp_sid=%7bGPP_SID%7d&h=%7bHEIGHT%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&tv_ad_id=%7bTV_AD_ID%7d&url=%7bDOMAIN%7d&w=%7bWIDTH%7d&app_name=%7bAPP_NAME%7d&did=%7bADID%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&skip=%7bSKIPPABLE%7d&us_privacy=%7bUSPRIVACY%7d&app_store_url=%7bAPP_STORE_URL%7d&channel_name=%7bCHANNEL_NAME%7d&ifa_type=%7bIFATYPE%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&dnt=%7bDNT%7d&gpp=%7bGPP%7d&network_name=%7bNETWORK_NAME%7d&coppa=0&device_make=%7bDEVICE_MAKE%7d&idtype=%7bIDTYPE%7d&iu=%7bIU%7d&prodq=%7bPRODQ%7d&schain=%7bSCHAIN%7d&ad_pos=%7bAD_POS%7d&lmt=%7bLMT%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDIwNzk5NDQyOH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1664636427/1/267/150/0.jpg" group-title="LOCAL CHANNELS",12 On Your Side Richmond
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -321,10 +313,6 @@ https://amg01438-amg01438c27-vizio-us-10895.playouts.now.amagi.tv/playlist/amg01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg01438-amg01438c5-vizio-us-10929.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippskivi-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTE1MDQzN30
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242404/1/267/150/0.jpg" group-title="LOCAL CHANNELS",KBZK News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg01438-amg01438c32-vizio-us-10898.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippskbzk-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNDk0OTAwNX0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242349/1/267/150/0.jpg" group-title="LOCAL CHANNELS",7 WKBW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -369,10 +357,6 @@ https://amg01438-amg01438c31-vizio-us-10906.playouts.now.amagi.tv/playlist/amg01
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg01438-amg01438c26-vizio-us-10902.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippsktvh-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTAwNzcwOX0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242382/1/267/150/0.jpg" group-title="LOCAL CHANNELS",KSHB 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg01438-amg01438c35-vizio-us-10899.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippskshb-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNDk0OTAwN30
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242522/1/267/150/0.jpg" group-title="LOCAL CHANNELS",KATC TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -721,10 +705,6 @@ https://amg00276-amg00276c3-vizio-us-4063.playouts.now.amagi.tv/playlist/amg0027
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885565/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885565&ads.csid=viziowatchfree_us_worldsmostevilkillers_ssai&ads.caid=WorldsMostEvilKillers&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=WorldsMostEvilKillers&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885565&ads.xumo_channelName=WorldsMostEvilKillers&ads._fw_content_programmer_brand=WorldsMostEvilKillers&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDA0MDMwMjk3OX0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1668843938/1/267/150/0.jpg" group-title="CRIME",Living with Evil
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg00136-wbd-amg00136c25-vizio-us-1807.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvlivingwithevil-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQyMX0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1693949172/1/267/150/0.jpg" group-title="CRIME",Crimes Cults Killers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -877,10 +857,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-vizio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://acae5ac4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRGVhbFpvbmVfSExT/playlist.m3u8?ads.wurl_channel=1099&ads.wurl_name=DealZone&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzgyMzk4MjY1MX0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646486279/1/267/150/0.jpg" group-title="REALITY",Judge Faith
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg18477-mycode-amg18477c1-vizio-us-9644.playouts.now.amagi.tv/playlist/amg18477-mycode-judgefaith-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&pod_ad_slots=%7bPOD_AD_SLOT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDY0NTI2MTY3Mn0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242675/1/267/150/0.jpg" group-title="REALITY",World of Love Island
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -893,10 +869,6 @@ https://dbsmvzfksdzmk.cloudfront.net/10901/88885507/hls/master.m3u8?ads.xumo_cha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg00136-wbd-amg00136c26-vizio-us-1808.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvsayyestothedress-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1ODI0NjQyMn0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1693949188/1/267/150/0.jpg" group-title="REALITY",Matched Married Meet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg00276-amg00276c4-vizio-us-4058.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-matchedmarriedmeet-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjkwMn0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1735730150/1/267/150/0.jpg" group-title="REALITY",Storage Wars by A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -1101,14 +1073,6 @@ https://amg00136-wbd-amg00136c78-vizio-us-9381.playouts.now.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885521/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885521&ads.csid=viziowatchfree_us_filmrisehellskitchen_ssai&ads.caid=FilmRiseCA&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=1082&ads.xumo_contentName=FilmRiseCA&ads.xumo_providerId=1082&ads.xumo_providerName=FilmRiseCA&ads.channelId=88885521&ads.xumo_channelName=FilmRiseCA&ads._fw_content_programmer_brand=FilmRiseCA&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MzI2MzQ4OTI4M30
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736242145/1/267/150/0.jpg" group-title="FOOD + TRAVEL",The Martha Stewart Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg17902-amg17902c1-amgplt0022.playout.now3.amagi.tv/playlist/amg17902-amg17902c1-amgplt0022/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDQwMTQ5MDAwN30
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736241882/1/267/150/0.jpg" group-title="FOOD + TRAVEL",The Emeril Lagasse Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg17902-amg17902c2-amgplt0022.playout.now3.amagi.tv/playlist/amg17902-amg17902c2-amgplt0022/playlist.m3u8?ad_pos=%7bAD_POS%7d&h=%7bHEIGHT%7d&ic=%7bIC%7d&us_privacy=%7bUSPRIVACY%7d&gpp_sid=%7bGPP_SID%7d&idtype=%7bIDTYPE%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&dnt=%7bDNT%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&url=%7bDOMAIN%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&ifa_type=%7bIFATYPE%7d&is_lat=%7bIS_LAT%7d&lmt=%7bLMT%7d&network_name=%7bNETWORK_NAME%7d&tv_ad_id=%7bTV_AD_ID%7d&w=%7bWIDTH%7d&app_bundle=%7bAPP_BUNDLE%7d&channel_name=%7bCHANNEL_NAME%7d&device_make=%7bDEVICE_MAKE%7d&iu=%7bIU%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&did=%7bADID%7d&gpp=%7bGPP%7d&skip=%7bSKIPPABLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&coppa=%7bCOPPA%7d&prodq=%7bPRODQ%7d&schain=%7bSCHAIN%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczMjk2NTc5M30
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646848030/1/267/150/0.jpg" group-title="FOOD + TRAVEL",The Jamie Oliver Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -1185,10 +1149,6 @@ https://amg00461-eone-amg00461c1-vizio-us-5752.playouts.now.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensenetw-sensical2up-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzI0ODM1NDA5MH0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1641822555/1/267/150/0.jpg" group-title="KIDS + FAMILY",Kidoodle.TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg07653-apmc-amg07653c9-vizio-us-8497.playouts.now.amagi.tv/playlist/amg07653-aparentmediacoinc-kidoodletvusa-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDU2ODk4NzMxNn0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1646513760/1/267/150/0.jpg" group-title="KIDS + FAMILY",Ryan and Friends
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -1301,10 +1261,6 @@ https://amg00136-wbd-amg00136c77-vizio-us-9193.playouts.now.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg01515-amg01515c89-amgplt0022.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg01515-amg01515c89-amgplt0022/playlist.m3u8?app_name=%7bAPP_NAME%7d&device_make=%7bDEVICE_MAKE%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&iu=%7bIU%7d&vizio_network_name=%7b%7bVIZIO_NETWORK_NAME%7d%7d&dnt=%7bDNT%7d&gpp_sid=%7bGPP_SID%7d&lmt=%7bLMT%7d&coppa=0&ic=%7bIC%7d&idtype=%7bIDTYPE%7d&prodq=%7bPRODQ%7d&schain=%7bSCHAIN%7d&url=%7bDOMAIN%7d&w=%7bWIDTH%7d&us_privacy=%7bUSPRIVACY%7d&ad_pos=%7bAD_POS%7d&gpp=%7bGPP%7d&h=%7bHEIGHT%7d&is_lat=%7bIS_LAT%7d&pod_ad_slots=%7bPOD_AD_SLOTS%7d&skip=%7bSKIPPABLE%7d&tv_ad_id=%7bTV_AD_ID%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&channel_name=%7bCHANNEL_NAME%7d&content_livestream=%7bCONTENT_LIVESTREAM%7d&did=%7bADID%7d&ifa_type=%7bIFATYPE%7d&network_name=%7bNETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDk0NjU5NzQwMH0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1693949193/1/267/150/0.jpg" group-title="HISTORY + DOCS",Military Heroes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg00276-amg00276c5-vizio-us-4059.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-militaryheroes-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDI4NzUyMjkwMX0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736174784/1/267/150/0.jpg" group-title="HISTORY + DOCS",PBS Genealogy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -1357,10 +1313,6 @@ https://d21191e212f84ecab78af4136b62d0fd.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDA5NjIwMDc3Mn0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736244402/1/267/150/0.jpg" group-title="SPORTS",CW Presents WWE NXT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg00347-amg00347c2-amgplt0022.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg00347-amg00347c2-amgplt0022/playlist.m3u8?app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&channel_name=REPLACE_ME&content_livestream=%7bCONTENT_LIVESTREAM%7d&coppa=0&device_make=%7bDEVICE_MAKE%7d&did=%7bADID%7d&dnt=%7bDNT%7d&gdpr=%7bGDPR%7d&gdpr_consent=%7bGDPR_CONSENT%7d&gpp=%7bGPP%7d&gpp_sid=%7bGPP_SID%7d&h=%7bHEIGHT%7d&ic=%7bIC%7d&idtype=%7bIDTYPE%7d&ifa_type=%7bIFATYPE%7d&inv_partner_domain=%7bINV_PARTNER_DOMAIN%7d&is_lat=%7bIS_LAT%7d&iu=%7bIU%7d&lmt=%7bLMT%7d&network_name=REPLACE_ME&pod_ad_slots=%7bPOD_AD_SLOTS%7d&prodq=%7bPRODQ%7d&schain=%7bSCHAIN%7d&skip=%7bSKIPPABLE%7d&url=%7bDOMAIN%7d&us_privacy=%7bUSPRIVACY%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&w=%7bWIDTH%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDk0NjY1NzI5OH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736243187/1/267/150/0.jpg" group-title="SPORTS",X Games TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -1449,10 +1401,6 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolut
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountry-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTIwMDYyOX0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1645377889/1/267/150/0.jpg" group-title="MUSIC",Vevo Hip-Hop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevohiphop-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk5OTE0MjA5OH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1645381339/1/267/150/0.jpg" group-title="MUSIC",Vevo R&B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
