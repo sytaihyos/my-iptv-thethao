@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 14:45:05 04/11/2026
+#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 16:40:46 04/11/2026
 http://cdn.vtvall.vn/vtv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736244183/1/267/150/0.jpg" group-title="FEATURED",FREE Action Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1141,10 +1141,6 @@ https://amg00136-wbd-amg00136c80-vizio-us-9384.playouts.now.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg00136-wbd-amg00136c79-vizio-us-9382.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-homecooking-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDYyMjc0NzkwMX0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1735706314/1/267/150/0.jpg" group-title="KIDS + FAMILY",Baby Shark TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://6b54194cbd92493597e24bfa46ea7106.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.coppa=1&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzMzNDA5MjY1MH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1728249639/1/267/150/0.jpg" group-title="KIDS + FAMILY",Barney and Friends
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
