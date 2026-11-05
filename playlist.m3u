@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 04:43:27 05/11/2026
+#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 06:50:44 05/11/2026
 http://cdn.vtvall.vn/vtv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736244183/1/267/150/0.jpg" group-title="FEATURED",FREE Action Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -149,10 +149,6 @@ https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg00488-foxdigital-amg00488c1-vizio-us-892.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox26houstonkriv-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDEwNTQ3NTg4OX0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736206304/1/267/150/0.jpg" group-title="LOCAL CHANNELS",FOX LOCAL Phoenix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://amg00488-foxdigital-amg00488c2-vizio-us-898.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox10ksazphoenix-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mzk3MjA5NzM3OH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736206297/1/267/150/0.jpg" group-title="LOCAL CHANNELS",FOX LOCAL Minneapolis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
@@ -1561,10 +1557,6 @@ https://api-ott-oly-fv.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://bcc67e0c22804985b174e9b30ed52079.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1184-SONYONEDRAMON-MEX-VIZIO/playlist.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIxNDkiLCJ3ZnBjaWQiOjQ3NzIzMDY2MzN9
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736225744/1/267/150/0.jpg" group-title="EN ESPAÑOL",Todo Novelas Más Pasiones
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://448a93b8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9kb05vdmVsYXNfSExT/playlist.m3u8?ads.wurl_channel=1897&ads.wurl_name=TodoNovelas&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6NDYzMTQ0MDM4OX0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736241948/1/267/150/0.jpg" group-title="EN ESPAÑOL",Grandes Parejas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
