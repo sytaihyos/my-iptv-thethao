@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 08:45:57 12/11/2026
+#EXTINF:-1 group-title="HỆ THỐNG",🔄 Cập nhật hệ thống: 10:48:09 12/11/2026
 http://cdn.vtvall.vn/vtv3/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736244183/1/267/150/0.jpg" group-title="FEATURED",FREE Action Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
@@ -1065,10 +1065,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-realwild-vizio/playlist.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
 https://amg00376-magellan-amg00376c13-vizio-us-1392.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDE1MTcyMTM0Mn0
-#EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1706741456/1/267/150/0.jpg" group-title="FOOD + TRAVEL",Fork & Flight
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://google.com
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-forkandflight-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzI4NTQyNjIyNH0
 #EXTINF:-1 tvg-logo="https://images.vizio.com/v4/btv/1/1736094350/1/267/150/0.jpg" group-title="FOOD + TRAVEL",No Reservations
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://google.com
